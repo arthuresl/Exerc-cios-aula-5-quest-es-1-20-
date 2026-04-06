@@ -1,0 +1,11 @@
+Início
+
+numero = int(input("Digite um número: "))
+
+if numero >= 0:
+    raiz = numero ** 0.5
+    print("Raiz:", raiz)
+else:
+    print("Número inválido")
+
+Fim
