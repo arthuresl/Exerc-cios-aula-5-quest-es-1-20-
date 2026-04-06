@@ -1,0 +1,8 @@
+Início
+
+valor = input("Digite algo: ")
+
+print("Valor:", valor)
+print("Tipo:", type(valor))
+
+Fim
