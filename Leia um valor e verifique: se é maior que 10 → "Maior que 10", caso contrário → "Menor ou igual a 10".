@@ -1,0 +1,10 @@
+Início
+
+numero = int(input("Digite um número: "))
+
+if numero > 10:
+    print("Maior que 10")
+else:
+    print("Menor ou igual a 10")
+
+Fim
